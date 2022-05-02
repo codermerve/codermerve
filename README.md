@@ -18,8 +18,23 @@ Here are some ideas to get you started:
   
 ![friends-hi](https://user-images.githubusercontent.com/94128462/166244614-10103b6a-d7a9-43b3-9309-f056bab98331.gif)
 
-<img src="https://img.icons8.com/doodle/28/000000/user-female-circle.png"/>**About me**
-<h5>Hello friends!... I'm Merve.
+<h5><img src="https://img.icons8.com/doodle/28/000000/user-female-circle.png"/>**About me** <br>
+Hello friends!... I'm Merve.
 I am a full-stack developer and user interface designer in the field of software.
 I was born in Izmir/Turkey on May 22, 1989.
 My motto is "I'm not perfect, but I'm the bravest."
+  
+<img src="https://img.icons8.com/doodle/28/000000/user-female-circle.png"/>**My Qualifications**<br>
+
+UI / UX Designer <br>
+-Adobe XD %100<br>
+-Figma %100<br><br>
+*Full-Stack Dev.<br>
+-Html %100<br>
+-CSS %100<br>
+-JavaScript %80<br>
+-JQuery %70<br>
+-Python %90<br>
+-Django %60<br>
+
+![joey-friends](https://user-images.githubusercontent.com/94128462/166247153-83179b3b-f44e-470d-8c4e-3b23b92e2e68.gif)
