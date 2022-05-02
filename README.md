@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/doodle/28/000000/link--v1.png"/>**Connect with me** <br>
 <a href="https://www.mervebayirportfolio.page/" target="blank"><img src="https://img.icons8.com/doodle/28/000000/chrome.png"/>
 <a href="https://www.linkedin.com/in/mervepbayir/" target="blank"><img src="https://img.icons8.com/doodle/28/000000/linkedin-circled.png"/>
-<a href="https://instagram.com/code_boot" target="blank"><img src="https://img.icons8.com/doodle/28/000000/instagram--v1.png"/>
+<a href="https://instagram.com/code_boot/" target="blank"><img src="https://img.icons8.com/doodle/28/000000/instagram--v1.png"/>
   
 <center>![friends-hi](https://user-images.githubusercontent.com/94128462/166244614-10103b6a-d7a9-43b3-9309-f056bab98331.gif)</center>
+  
+Hello friends!... I'm Merve.
+
+I am a full-stack developer and user interface designer in the field of software.
+
+I was born in Izmir/Turkey on May 22, 1989.
+
+My motto is "I'm not perfect, but I'm the bravest."
