@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mervepbayir/" target="blank"><img src="https://img.icons8.com/doodle/28/000000/linkedin-circled.png"/>
 <a href="https://instagram.com/code_boot" target="blank"><img src="https://img.icons8.com/doodle/28/000000/instagram--v1.png"/>
   
-![friends-hi](https://user-images.githubusercontent.com/94128462/166244614-10103b6a-d7a9-43b3-9309-f056bab98331.gif)
+<center>![friends-hi](https://user-images.githubusercontent.com/94128462/166244614-10103b6a-d7a9-43b3-9309-f056bab98331.gif)</center>
