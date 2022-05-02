@@ -1,9 +1,5 @@
-### Hi there 👋
-
-
-**codermerve/codermerve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![output-onlinegiftools](https://user-images.githubusercontent.com/94128462/166251836-bfb4f256-8cb3-4116-bd9f-55e3584e0538.gif)  <br>
+<h1>Hello ! </h1>
 
 - 🔭 I’m currently working on something 😉
 - 🌱 I’m currently learning Angular,Node JS ,React!<img src="https://img.icons8.com/doodle/28/000000/ok.png"/>
@@ -11,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  @code.boot@hotmail.com  <img src="https://img.icons8.com/doodle/28/000000/search--v1.png"/>
 - 😄 Pronouns: Female  <img src="https://img.icons8.com/doodle/33/000000/user-female--v1.png"/>
 - ⚡ Fun fact: Coffee Enthusiast <img src="https://img.icons8.com/doodle/28/000000/coffee-to-go.png"/> , wanderlust <img src="https://img.icons8.com/doodle/28/000000/forest--v1.png"/><br>
-<img src="https://img.icons8.com/doodle/28/000000/link--v1.png"/>**Connect with me** <br>
+<h5><img src="https://img.icons8.com/doodle/28/000000/link--v1.png"/>**Connect with me** <br><br>
 <a href="https://www.mervebayirportfolio.page/" target="blank"><img src="https://img.icons8.com/doodle/28/000000/chrome.png"/>
 <a href="https://www.linkedin.com/in/mervepbayir/" target="blank"><img src="https://img.icons8.com/doodle/28/000000/linkedin-circled.png"/>
 <a href="https://instagram.com/code_boot/" target="blank"><img src="https://img.icons8.com/doodle/28/000000/instagram--v1.png"/>
