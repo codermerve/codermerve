@@ -24,7 +24,7 @@ I am a full-stack developer and user interface designer in the field of software
 I was born in Izmir/Turkey on May 22, 1989.
 My motto is "I'm not perfect, but I'm the bravest."
   
-<img src="https://img.icons8.com/doodle/28/000000/user-female-circle.png"/>**My Qualifications**<br>
+<h5><img src="https://img.icons8.com/doodle/28/000000/user-female-circle.png"/>**My Qualifications**<br>
 
 UI / UX Designer <br>
 -Adobe XD %100<br>
